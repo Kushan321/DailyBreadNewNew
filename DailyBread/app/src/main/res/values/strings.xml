@@ -3,5 +3,16 @@
     <string name="button">Button</string>
     <string name="home">Home</string>
     <string name="Next">Next</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="new_food">Add New Food</string>
+    <string name="new_food_submit">Submit</string>
+    <string name="sausage_bun">Rs.100/=</string>
+    <string name="cream_bun">Rs.60/=</string>
+    <string name="chicken_burger">Rs.150/=</string>
+    <string name="sausage_bun_name">Sausage Bun</string>
+    <string name="cream_bun_name">Cream Bun</string>
+    <string name="chicken_burger_name">Chicken Burger</string>
+
 
 </resources>
