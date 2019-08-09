@@ -6,22 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="128dp"
-        android:layout_height="58dp"
-        android:text="Pakaya!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <Button
         android:id="@+id/button"
         android:layout_width="239dp"
         android:layout_height="65dp"
-        android:text="Ammata Hukapan"
-        tools:layout_editor_absoluteX="95dp"
-        tools:layout_editor_absoluteY="143dp" />
+        android:text="LOGIN"
+        tools:layout_editor_absoluteX="86dp"
+        tools:layout_editor_absoluteY="544dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
