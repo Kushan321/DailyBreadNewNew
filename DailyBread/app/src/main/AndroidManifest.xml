@@ -9,10 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
+        <activity
+            android:name=".UserOder"
+            android:label="@string/title_activity_user_oder"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+=======
         <activity android:name=".Food_Menu"></activity>
         <activity android:name=".New_Food" />
         <activity android:name=".add_user"></activity>
         <activity android:name=".login" />
+>>>>>>> 7a5d41b486ebb87680d6d2e07d896e9f0f28688e
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

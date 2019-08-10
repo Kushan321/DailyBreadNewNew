@@ -4,6 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
+    android:background="@drawable/userback"
+    tools:context=".MainActivity">
+
+
+=======
     android:background="@drawable/home"
     tools:context=".MainActivity">
 
@@ -47,5 +53,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/logo" />
+>>>>>>> 7a5d41b486ebb87680d6d2e07d896e9f0f28688e
 
 </androidx.constraintlayout.widget.ConstraintLayout>
