@@ -11,6 +11,8 @@
         android:theme="@style/AppTheme">
         <activity android:name=".Food_Menu"></activity>
         <activity android:name=".New_Food" />
+        <activity android:name=".add_user"></activity>
+        <activity android:name=".login" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
