@@ -3,6 +3,7 @@
     <string name="button">Button</string>
     <string name="home">Home</string>
     <string name="Next">Next</string>
+<<<<<<< HEAD
     <string name="title_activity_user_oder">UserOder</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -19,5 +20,32 @@
     <string name="menu_send">Send</string>
     <string name="button">Button</string>
     <string name="login" />
+=======
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="new_food">Add New Food</string>
+    <string name="new_food_submit">Submit</string>
+    <string name="sausage_bun">Rs.100/=</string>
+    <string name="cream_bun">Rs.60/=</string>
+    <string name="chicken_burger">Rs.150/=</string>
+    <string name="sausage_bun_name">Sausage Bun</string>
+    <string name="cream_bun_name">Cream Bun</string>
+    <string name="chicken_burger_name">Chicken Burger</string>
+    <string name="adduser">Add User</string>
+    <string name="idnumber">ID Number</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="address">Home Address</string>
+    <string name="title_activity_daily_bread_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+>>>>>>> 7a5d41b486ebb87680d6d2e07d896e9f0f28688e
 
 </resources>
